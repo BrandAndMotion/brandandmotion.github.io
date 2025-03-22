@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="logo-rings.svg"
+   inkscape:export-filename="HD-brandandmotion.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.17677671"
+     inkscape:cx="1111.5718"
+     inkscape:cy="537.40111"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffff00" />
+  <defs
+     id="defs1">
+    <rect
+       x="416.66986"
+       y="410.21701"
+       width="237.83369"
+       height="88.496254"
+       id="rect4" />
+    <rect
+       x="416.66986"
+       y="410.21701"
+       width="237.83369"
+       height="88.496254"
+       id="rect5" />
+    <rect
+       x="416.66986"
+       y="410.21701"
+       width="237.83369"
+       height="88.496254"
+       id="rect7" />
+    <rect
+       x="416.66986"
+       y="410.21701"
+       width="237.83369"
+       height="88.496254"
+       id="rect8" />
+    <rect
+       x="416.66986"
+       y="410.21701"
+       width="237.83369"
+       height="88.496254"
+       id="rect8-3" />
+    <rect
+       x="416.66986"
+       y="410.21701"
+       width="237.83369"
+       height="88.496254"
+       id="rect4-5" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect53"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8.3114117,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path8"
+       style="fill:#333333;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 943.73293,10.304743 c -11.93558,0.114618 -23.81432,0.710577 -35.60158,1.810752 -2.65643,0.24784 1.64407,3.566968 1.64407,3.566968 l 49.22494,46.581477 c -180.17634,0.375854 -346.57273,96.61036 -436.68755,252.69415 -90.29176,156.38967 -90.29176,349.07126 0,505.46084 88.8066,153.81786 300.95924,265.06647 489.55579,247.46497 2.6564,-0.2478 -1.6441,-3.567 -1.6441,-3.567 l -49.22497,-46.5814 c 180.17637,-0.3759 346.57277,-96.61039 436.68767,-252.69425 90.2918,-156.38958 90.2918,-349.07116 0,-505.46083 C 1314.4309,115.37623 1122.7647,8.5869312 943.73293,10.304743 Z m 16.43001,60.864032 A 468.50408,468.9146 0 0 1 1428.6679,540.083 468.50408,468.9146 0 0 1 960.16294,1008.9972 468.50408,468.9146 0 0 1 491.65789,540.083 468.50408,468.9146 0 0 1 960.16294,71.168775 Z"
+       inkscape:export-filename="motiondesign\logo.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+  </g>
+</svg>
