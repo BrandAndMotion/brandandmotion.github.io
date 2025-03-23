@@ -4,8 +4,8 @@ import "./style.css"
 
 /* Endereços dos Vídeos */
 const videos = [
-  "./public/video1.mp4", 
-  "./public/video2.mp4",
+  "./video1.mp4", 
+  "./video2.mp4",
 ];
 
 const Vbg = () => {
@@ -144,7 +144,7 @@ const Hide = () => {
         
         {isHidded && (
         <div className={Styles.logoContainer}>
-          <img className={Styles.logo} src="./public/HD-brandandmotion.svg"/>
+          <img className={Styles.logo} src="./HD-brandandmotion.svg"/>
         </div>
         )};
       </div>
